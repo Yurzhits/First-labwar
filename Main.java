@@ -13,6 +13,7 @@ class DataEngine {
 
     public void start() {
         System.out.println("Движок компании версии " + version + " запущен!");
+        System.out.println("Ураааааа!");
     }
 }
 
